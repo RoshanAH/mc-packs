@@ -1,0 +1,13 @@
+name = "NutritionZ"
+filename = "nutritionz-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9IASI8W8/versions/O20LuFar/nutritionz-1.0.11.jar"
+hash-format = "sha1"
+hash = "3708a1ff67d8852599a33975c7d9d7376cdaec9a"
+
+[update]
+[update.modrinth]
+mod-id = "9IASI8W8"
+version = "O20LuFar"

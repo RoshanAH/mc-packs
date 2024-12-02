@@ -1,4 +1,4 @@
-name = "RMCraft"
+name = "RM Craft"
 author = "mel"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ac103f09912c10903f1c65158692875766a56fd1931b9730aaab1b689a866a14"
+hash = "64ee4939ca09378617c5ca74ad695e70640c7e5af36a188031351091dc254bfc"
 
 [versions]
 fabric = "0.16.9"
-minecraft = "1.21"
+minecraft = "1.20.1"

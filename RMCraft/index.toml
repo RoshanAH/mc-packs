@@ -1,11 +1,165 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "65e636524c7311fe98f308e26a2b67ed2589957aab04313e541c75afd701284a"
+file = "mods/[FABRIC]+healing_101+1.3.5.jar"
+hash = "b1d049b8153ee53856014d59c9fa829b37842e022f71bbf29a7ea8e983f829bb"
+
+[[files]]
+file = "mods/autotag.pw.toml"
+hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "a5b08175ba6a8ffa2cb04d09e942a5bd40295aded769de82b26fd9fc80e3b1a5"
+file = "mods/bed-benefits.pw.toml"
+hash = "d51c568f86401ca1c89240459c05b6ab502471c53552e786dc2d3b55abdda396"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "ce71bb4d87f97c84aabeeef207655a10c4e196b699f0ce87f368b3f00bbc3580"
+metafile = true
+
+[[files]]
+file = "mods/dehydration.pw.toml"
+hash = "7b02837b74339878d7489f933e52c4eedd6c8785348ed01ec7e5d2f6d1db1724"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1d322f0b3b66bf76ffe5fcee2a60c173f3dfd1a6e0a23d06b6fdb6d5fb290b76"
+metafile = true
+
+[[files]]
+file = "mods/environmentz.pw.toml"
+hash = "039ce03f94cbbda586031788fe1ae17c18bba1ee0df724379fe85903c3987e81"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "47658692cb711fabfd8979f13d3be74ef39056cf3e9a5407d05bc0d4e51075d9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "2a323b56ae9593d1e0c332226db2a334efa6d2550faeebdd0442d420fcd081d5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "d3806be21cac350030f45d22598308029b3e132702ab8ca403e384db101c33e1"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "5ba12edefb40b883be91fbdedac3e8a25229868d3c7b1a6566700eb4aa814209"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/levelz.pw.toml"
+hash = "21f05c1471b1aac69a2fc5ede07344d0fc4ea5ac15d7dfa9850814562f937142"
+metafile = true
+
+[[files]]
+file = "mods/libz.pw.toml"
+hash = "18c5ea7c56454fab1b7c959d50b366e05ddcedfa90cb8dc2faf45ad3a5db11a0"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/neutral-animals.pw.toml"
+hash = "00a3d5c175ba5bec4008d125d47fe3074a8a9b23c9e3a7b9f4266a5923257d07"
+metafile = true
+
+[[files]]
+file = "mods/nutritionz.pw.toml"
+hash = "5cce8feeffeec287ead543777eef9f45c0260e1dd4aa928a77dacd76cf24cd48"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "3b579e9c65e6ce31d22a1e3cab085a4eb4c3fb2ecd3e43d9a6ea84518a5cc331"
+metafile = true
+
+[[files]]
+file = "mods/realistic-stamina.pw.toml"
+hash = "a242a34238f341f110b39394191eb08e01424dac155eec30d76f057deae9a0a4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "2810b03f2222bf70872ef972cac79c4982da7150876e672a72c8da2b10fd9bbf"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "efda609e0916b5a844c71b59b829f78c31fa941b69ccb0c5dab47f0856d3d471"
+metafile = true
+
+[[files]]
+file = "mods/stack-size-edit.pw.toml"
+hash = "65e428572203135ea15fcd2c6b9ed7d92ab18a1bc7f1643ee65956febb610a88"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "27e7e48b7af508ecf27f389f37c6ab60e72a947f476d5e427927a6de70442de2"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness-refabricated.pw.toml"
+hash = "59f9a77c8a5cfac8c092d862d2e567343dc175c204635bb983d2436e27d1feaa"
+metafile = true
+
+[[files]]
+file = "mods/unnecessary-overhaul.pw.toml"
+hash = "47b23952553c249eaa8840f64ec460d2ceaa621dcfb42b92513d6bec1a3fb1da"
+metafile = true
+
+[[files]]
+file = "mods/wearable-lanterns.pw.toml"
+hash = "2ba58979d6934d5fec662464bd0c37088820fc72fad2f26099c323642c15d517"
 metafile = true
