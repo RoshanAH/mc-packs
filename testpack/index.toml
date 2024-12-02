@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "78d340163d70e433a6c407c10e1f65ba3ab00b92bf22f61a66ca4b38ae6d3dfc"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "bd02cc1b0ee4feea5c920bc2b3858ddb3c3d98ece259507169956fdabb54b759"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "01e471af0769f08cb24a53df4971f01a05370f19a8221d62bd2b1aee0f1ccab1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5e79e16e442ac4b3da94c1515e8d9ac5baaeab7c9589f0ff0ebebf1574d77255"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "13de12a229097fba5d719c44c5f148f798121bd1b42284658f87410879fa1aa7"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "daebdcc242bb20b35bee1d9d41707dfe7bf189663eccec6f5da06689473ca637"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "8db746e87baa2ac3589310e0f4853263a0aba215a884662854689aaa8a19f7a8"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "f80f45f4db1eff307c014f826737b5db5b2297f017182e7adca72815984a9dae"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a5b08175ba6a8ffa2cb04d09e942a5bd40295aded769de82b26fd9fc80e3b1a5"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "5909f21a6e8c5ffc7a935fa6a67cf771190ba82ac96dd11b23fd0f6ffb7b3218"
+metafile = true

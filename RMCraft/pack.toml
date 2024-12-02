@@ -1,0 +1,13 @@
+name = "RMCraft"
+author = "mel"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac103f09912c10903f1c65158692875766a56fd1931b9730aaab1b689a866a14"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21"
