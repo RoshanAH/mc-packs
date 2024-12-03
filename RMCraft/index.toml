@@ -10,6 +10,11 @@ hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "d5f0e6dec4e5cbd13257be43ae4d1beebc007ba08cc1823913fcc2e911ff0cbf"
+metafile = true
+
+[[files]]
 file = "mods/bed-benefits.pw.toml"
 hash = "d51c568f86401ca1c89240459c05b6ab502471c53552e786dc2d3b55abdda396"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
 
 [[files]]
@@ -32,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/dehydration.pw.toml"
 hash = "7b02837b74339878d7489f933e52c4eedd6c8785348ed01ec7e5d2f6d1db1724"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "ca512e9453708c8b4e145e9a24d7b74603ea7d4737f03028c7f1b9f4cdb0bc2d"
 metafile = true
 
 [[files]]
@@ -75,8 +95,18 @@ hash = "5ba12edefb40b883be91fbdedac3e8a25229868d3c7b1a6566700eb4aa814209"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1ec67d2d4c37b94e331d9eff70eccb168d3f8839c604d6bc70861b97117d7d2a"
 metafile = true
 
 [[files]]
@@ -95,13 +125,38 @@ hash = "18c5ea7c56454fab1b7c959d50b366e05ddcedfa90cb8dc2faf45ad3a5db11a0"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "4200aa5f5da6e8eee3eaf057da296b9d72a53b8b0fce66a19cb368d243bfde5d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
+metafile = true
+
+[[files]]
 file = "mods/neutral-animals.pw.toml"
 hash = "00a3d5c175ba5bec4008d125d47fe3074a8a9b23c9e3a7b9f4266a5923257d07"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
 metafile = true
 
 [[files]]
@@ -125,6 +180,11 @@ hash = "a242a34238f341f110b39394191eb08e01424dac155eec30d76f057deae9a0a4"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
 hash = "2810b03f2222bf70872ef972cac79c4982da7150876e672a72c8da2b10fd9bbf"
 metafile = true
@@ -137,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/stack-size-edit.pw.toml"
 hash = "65e428572203135ea15fcd2c6b9ed7d92ab18a1bc7f1643ee65956febb610a88"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
@@ -160,6 +225,16 @@ hash = "47b23952553c249eaa8840f64ec460d2ceaa621dcfb42b92513d6bec1a3fb1da"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+metafile = true
+
+[[files]]
 file = "mods/wearable-lanterns.pw.toml"
 hash = "2ba58979d6934d5fec662464bd0c37088820fc72fad2f26099c323642c15d517"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redeyed.pw.toml"
+hash = "d39059d0030e6175219b9e8e139b8d98d5afb70d0267652f229f38d8d3e630cc"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Red-eyed"
+filename = "Red-eyed 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vdsHPrOT/versions/GdCkTBfx/Red-eyed%201.1.zip"
+hash-format = "sha1"
+hash = "444ecce24ed06d15e0488ca6e6e8b4388ee02337"
+
+[update]
+[update.modrinth]
+mod-id = "vdsHPrOT"
+version = "GdCkTBfx"
