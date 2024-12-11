@@ -110,6 +110,11 @@ hash = "1ec67d2d4c37b94e331d9eff70eccb168d3f8839c604d6bc70861b97117d7d2a"
 metafile = true
 
 [[files]]
+file = "mods/jobsaddon.pw.toml"
+hash = "4f0d089482035abf3726e8776f1571387d1850d215e7a7194130b297581051fc"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -162,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/nutritionz.pw.toml"
 hash = "5cce8feeffeec287ead543777eef9f45c0260e1dd4aa928a77dacd76cf24cd48"
+metafile = true
+
+[[files]]
+file = "mods/offline-daylight-stop.pw.toml"
+hash = "3479a4b62a729b13263f9f5f2bcaadf9cb066a41b16cc79ec53d89c306d311a2"
 metafile = true
 
 [[files]]

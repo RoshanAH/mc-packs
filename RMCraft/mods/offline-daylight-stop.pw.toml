@@ -1,0 +1,13 @@
+name = "Offline Daylight Stop"
+filename = "offline-daylight-stop-1.0.0+mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Aqr97mA/versions/tZZ9ojgi/offline-daylight-stop-1.0.0%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "a88508a462931a6497e0b4f76a1633e1909d4879"
+
+[update]
+[update.modrinth]
+mod-id = "6Aqr97mA"
+version = "tZZ9ojgi"
