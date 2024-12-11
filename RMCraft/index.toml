@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bedbenefits.json"
+hash = "146c6c0a262d26c03160c34e5748397fc779dac183c01f546450adca926d05ff"
+
+[[files]]
+file = "config/darkness.json5"
+hash = "48f41ddba2590fc573f10de71d52f31da74931ce00e663883cd07ba3b10d26b4"
+
+[[files]]
+file = "config/dehydration.json5"
+hash = "d322b3daa8d30e0b7c1b2515436d40aee66d80b7cd45b5073599fcd60c91db6a"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "80f2c81957609206ea192c5fca8fa86e16931f65bb9c468f8b98a131b31125f9"
+
+[[files]]
+file = "config/levelz.json5"
+hash = "038733740056bd568f36c069a87c184c7461da2f553015334188422f427d0a29"
+
+[[files]]
+file = "config/nutritionz.json5"
+hash = "c653a2458880e284395dcce091b06e4249094888dc2ba2201b0cd44e72c5cb56"
+
+[[files]]
+file = "config/rstamina.conf"
+hash = "8a34359ce01e36dc57a444595bb8eac26a1ba83af6cdaff132114b8efddb7663"
+
+[[files]]
+file = "config/stacksizeedit.json"
+hash = "7167138db6ccb1328b0b99b3990a9fab7e5c3c8f6e0160b3e6ff3e463b9fda2c"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "141942994baf6c8b347791ec7a144ef447f162657cddc62f3e9fdbc3db626f82"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "9f19fe5bd092ec95981a00463d73469f62a8766b1218deac8b584b4a76b4323a"
+
+[[files]]
 file = "mods/[FABRIC]+healing_101+1.3.5.jar"
 hash = "b1d049b8153ee53856014d59c9fa829b37842e022f71bbf29a7ea8e983f829bb"
 
