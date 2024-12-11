@@ -5,6 +5,11 @@ file = "mods/[FABRIC]+healing_101+1.3.5.jar"
 hash = "b1d049b8153ee53856014d59c9fa829b37842e022f71bbf29a7ea8e983f829bb"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "f90cf46a642c3d2d8043454397441a9e6e53f55b0d768af0760305a214d5e695"
+metafile = true
+
+[[files]]
 file = "mods/autotag.pw.toml"
 hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/bed-benefits.pw.toml"
 hash = "d51c568f86401ca1c89240459c05b6ab502471c53552e786dc2d3b55abdda396"
+metafile = true
+
+[[files]]
+file = "mods/better-village-fabric.pw.toml"
+hash = "4f15ab1d691f9538a2e0a86bd1964f64a399ef0cb1dbc6711a420b171f4597a1"
 metafile = true
 
 [[files]]
@@ -35,8 +45,23 @@ hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "ca0666e9d4db7870a4087815a7557386249cad7833e5477df045e3a1423ff4ac"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "ce71bb4d87f97c84aabeeef207655a10c4e196b699f0ce87f368b3f00bbc3580"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "af346de7aed0fb58198dfc8d5f6674a3b0100a3928d7901f1e75248c8f78d3b9"
+metafile = true
+
+[[files]]
+file = "mods/danger-close.pw.toml"
+hash = "b7304b9036eb854af40e8032f150c12fb2084f7b018f3842d5b05bb7db742e67"
 metafile = true
 
 [[files]]
@@ -47,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
 
 [[files]]
@@ -105,6 +135,11 @@ hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers-(fabricquilt).pw.toml"
+hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
+metafile = true
+
+[[files]]
 file = "mods/heartstone.pw.toml"
 hash = "a3ec96ac770543822515321621d92d52fa9017a272fef407043a571c3973dc2c"
 metafile = true
@@ -130,6 +165,11 @@ hash = "21f05c1471b1aac69a2fc5ede07344d0fc4ea5ac15d7dfa9850814562f937142"
 metafile = true
 
 [[files]]
+file = "mods/library-ferret-fabric.pw.toml"
+hash = "492487b37012b88c37d3c4a8d5c09b9935720d03956d0da5b62053c848ee737a"
+metafile = true
+
+[[files]]
 file = "mods/libz.pw.toml"
 hash = "18c5ea7c56454fab1b7c959d50b366e05ddcedfa90cb8dc2faf45ad3a5db11a0"
 metafile = true
@@ -147,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "a6d26f83f74b540ec0f4a6f1ff9af724000db7ceb7b824cdf8196eeb4fe0bf56"
 metafile = true
 
 [[files]]
@@ -187,6 +232,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "1587dce77e3d9346f237111f47a53560e30d74ae416972e1e4b91e1faff1efa2"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "26df0477dde778de495b12bc2eb538081799d1e7d815da214db791c9339ff06b"
 metafile = true
 
 [[files]]
