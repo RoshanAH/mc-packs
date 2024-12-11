@@ -105,6 +105,11 @@ hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
 metafile = true
 
 [[files]]
+file = "mods/heartstone.pw.toml"
+hash = "a3ec96ac770543822515321621d92d52fa9017a272fef407043a571c3973dc2c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1ec67d2d4c37b94e331d9eff70eccb168d3f8839c604d6bc70861b97117d7d2a"
 metafile = true
@@ -145,6 +150,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "dcd63b75ed826aa698ae88b49ea7fcd87105c8430887a69d86a873f6224721aa"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
@@ -180,6 +190,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e67b646a37b34c077b5a99001d22b8eee964320a79c8bb7a83dc25ce851f8457"
+metafile = true
+
+[[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "3b579e9c65e6ce31d22a1e3cab085a4eb4c3fb2ecd3e43d9a6ea84518a5cc331"
 metafile = true
@@ -187,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/realistic-stamina.pw.toml"
 hash = "a242a34238f341f110b39394191eb08e01424dac155eec30d76f057deae9a0a4"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "63839e2846c860c6a545c1756220f9cc751d513eec32dc764628a32c5739d95f"
 metafile = true
 
 [[files]]
@@ -205,8 +225,18 @@ hash = "efda609e0916b5a844c71b59b829f78c31fa941b69ccb0c5dab47f0856d3d471"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
+metafile = true
+
+[[files]]
 file = "mods/stack-size-edit.pw.toml"
 hash = "65e428572203135ea15fcd2c6b9ed7d92ab18a1bc7f1643ee65956febb610a88"
+metafile = true
+
+[[files]]
+file = "mods/thin-air.pw.toml"
+hash = "3710be882250db9f492a14ab7b2b43c4e381caf6032bc276c872bd5485af5a26"
 metafile = true
 
 [[files]]
@@ -237,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
 metafile = true
 
 [[files]]
