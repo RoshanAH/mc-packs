@@ -1,0 +1,13 @@
+name = "Horse Break Leaves"
+filename = "horse-break-leaves-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ly22drPP/versions/ImokUbm9/horse-break-leaves-1.0.0.jar"
+hash-format = "sha1"
+hash = "7fbfca153c5d559b5df55c16470a900463be0d1b"
+
+[update]
+[update.modrinth]
+mod-id = "Ly22drPP"
+version = "ImokUbm9"

@@ -7,6 +7,6 @@
     "removeHarmfulEffects": true,
     "removeBeneficialEffects": false,
     "removeNeutralEffects": false,
-    "requiredFoodAmount": 0
+    "requiredFoodAmount": 3
   }
 }

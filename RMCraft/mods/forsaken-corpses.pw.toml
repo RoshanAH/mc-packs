@@ -1,0 +1,13 @@
+name = "Forsaken Corpses"
+filename = "forsaken_corpses_1.2.0_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5gDY48LT/versions/vRYYx1Lg/forsaken_corpses_1.2.0_1.20.1.jar"
+hash-format = "sha1"
+hash = "70d9f0a7b1b62f4422710eb38db4a81285c0ba95"
+
+[update]
+[update.modrinth]
+mod-id = "5gDY48LT"
+version = "vRYYx1Lg"

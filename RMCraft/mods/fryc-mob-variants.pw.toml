@@ -1,0 +1,13 @@
+name = "Mob Variants"
+filename = "frycmobvariants-4.5.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jnEFf2VO/versions/Er8jTXDF/frycmobvariants-4.5.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "0245b1a0d66e67e9cc300cda8625259c8c6dfda3"
+
+[update]
+[update.modrinth]
+mod-id = "jnEFf2VO"
+version = "Er8jTXDF"

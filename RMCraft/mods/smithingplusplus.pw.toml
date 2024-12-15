@@ -1,0 +1,13 @@
+name = "Smithing Plus"
+filename = "smithingplus-1.0.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tnN1aosh/versions/6zwjM7Dh/smithingplus-1.0.0-fabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "0988ae565329c4ff14b0a279a33ab029524f373a"
+
+[update]
+[update.modrinth]
+mod-id = "tnN1aosh"
+version = "6zwjM7Dh"
