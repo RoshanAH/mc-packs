@@ -143,6 +143,11 @@ hash = "b7304b9036eb854af40e8032f150c12fb2084f7b018f3842d5b05bb7db742e67"
 metafile = true
 
 [[files]]
+file = "mods/dataloader.pw.toml"
+hash = "60172c258cc9297e51f7712ff68da42b3f690f59cfb243a4131437d3f75f9c3a"
+metafile = true
+
+[[files]]
 file = "mods/dehydration.pw.toml"
 hash = "7b02837b74339878d7489f933e52c4eedd6c8785348ed01ec7e5d2f6d1db1724"
 metafile = true
