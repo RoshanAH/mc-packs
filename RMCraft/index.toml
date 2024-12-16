@@ -390,11 +390,6 @@ hash = "6799b3e8cc9351dd5ffd130883a227170db1272f099d1077e8e4d2f4592a85ca"
 metafile = true
 
 [[files]]
-file = "mods/simple-butchery.pw.toml"
-hash = "0010579ff83d9d6cad741448cff280a6e75e92685aa38278bdf4b45edbad9e65"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "63839e2846c860c6a545c1756220f9cc751d513eec32dc764628a32c5739d95f"
 metafile = true
