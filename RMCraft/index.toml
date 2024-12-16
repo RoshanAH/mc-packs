@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bedbenefits.json"
-hash = "146c6c0a262d26c03160c34e5748397fc779dac183c01f546450adca926d05ff"
+hash = "4456e24b871cd036692e68b63e2119e24d9c3cd2908bd2a30d74c25ac4271b92"
 
 [[files]]
 file = "config/darkness.json5"
@@ -13,12 +13,20 @@ file = "config/dehydration.json5"
 hash = "d322b3daa8d30e0b7c1b2515436d40aee66d80b7cd45b5073599fcd60c91db6a"
 
 [[files]]
-file = "config/gravestones.json"
-hash = "80f2c81957609206ea192c5fca8fa86e16931f65bb9c468f8b98a131b31125f9"
+file = "config/environmentz.json5"
+hash = "3c87791288aea9307cf9c97d11e1b1573bdde907484cd1274bc00bc6c0d3b7cd"
 
 [[files]]
-file = "config/levelz.json5"
-hash = "038733740056bd568f36c069a87c184c7461da2f553015334188422f427d0a29"
+file = "config/fixedanvilrepaircost.json5"
+hash = "0de97f08adfe417e54bf9777dc1d9362b0d17f4a4c22e55fd2663a335d84d81b"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "4bd89e9ca4c5dce1094ad2c731d27d2af2239d1f31cdd9fe5da54257558e02d6"
+
+[[files]]
+file = "config/health_levels.json"
+hash = "68d3452426fe9ae802a987313bf2f2af782a7a4f0756a597072c5bbdda944497"
 
 [[files]]
 file = "config/nutritionz.json5"
@@ -26,7 +34,7 @@ hash = "c653a2458880e284395dcce091b06e4249094888dc2ba2201b0cd44e72c5cb56"
 
 [[files]]
 file = "config/rstamina.conf"
-hash = "8a34359ce01e36dc57a444595bb8eac26a1ba83af6cdaff132114b8efddb7663"
+hash = "373259fd21770cbba51b22dfc7ee0af121915ec5735c6bc6261f19e1a502e829"
 
 [[files]]
 file = "config/stacksizeedit.json"
@@ -39,6 +47,11 @@ hash = "141942994baf6c8b347791ec7a144ef447f162657cddc62f3e9fdbc3db626f82"
 [[files]]
 file = "config/treechop-common.toml"
 hash = "9f19fe5bd092ec95981a00463d73469f62a8766b1218deac8b584b4a76b4323a"
+
+[[files]]
+file = "datapacks/slower-armor-progression.pw.toml"
+hash = "5bf920d598b5ee64c8a6fb415f52208bf374427d4d0c5cff7e4d69a7f13a19ea"
+metafile = true
 
 [[files]]
 file = "mods/[FABRIC]+healing_101+1.3.5.jar"
