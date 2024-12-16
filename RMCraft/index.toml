@@ -5,6 +5,10 @@ file = "config/bedbenefits.json"
 hash = "4456e24b871cd036692e68b63e2119e24d9c3cd2908bd2a30d74c25ac4271b92"
 
 [[files]]
+file = "config/colorfulhearts.toml"
+hash = "fd057b2523b5bac6b4e2df0c8ebe26ebbcdfee2c57ed008ea95fa940771fc9f5"
+
+[[files]]
 file = "config/darkness.json5"
 hash = "48f41ddba2590fc573f10de71d52f31da74931ce00e663883cd07ba3b10d26b4"
 
@@ -144,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/dataloader.pw.toml"
-hash = "60172c258cc9297e51f7712ff68da42b3f690f59cfb243a4131437d3f75f9c3a"
+hash = "763339c11280218235e000033ba7d469e404ec3366a043c34e4fa7e32efd966c"
 metafile = true
 
 [[files]]
@@ -505,4 +509,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/redeyed.pw.toml"
 hash = "d39059d0030e6175219b9e8e139b8d98d5afb70d0267652f229f38d8d3e630cc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wolf-fix.pw.toml"
+hash = "87748ed3e9367014302d7717ceae98c3973f450a92657fbc5f30ff8c57152254"
 metafile = true

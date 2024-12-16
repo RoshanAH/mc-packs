@@ -1,0 +1,8 @@
+name = "Wolf fix"
+filename = "mmv_pale_wolf_fix.zip"
+side = "client"
+
+[download]
+url = "https://github.com/user-attachments/files/16680368/mmv_pale_wolf_fix.zip"
+hash-format = "sha256"
+hash = "d9278819a4c20bdc6aa885550593fdac48ed5ee83d6477e0d1b4acae3bdd739e"
