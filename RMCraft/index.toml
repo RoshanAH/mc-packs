@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/sushi-bar.pw.toml"
-hash = "65fc240fd0e26598a98bfd7decc7e99dac36dec19c74d8aa6b3ab86bf1a76700"
+hash = "c47ffe7736fb97aac90cb76b9e6959bb3832686163d782857cdf6cc4853f5cb6"
 metafile = true
 
 [[files]]
