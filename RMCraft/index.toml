@@ -1,12 +1,40 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Sit!.properties"
+hash = "816a616fdcb85e82c6b9d898f1ff2ca1b82aea9cd51aa9fe9ea276ab62e95d17"
+
+[[files]]
 file = "config/bedbenefits.json"
 hash = "4456e24b871cd036692e68b63e2119e24d9c3cd2908bd2a30d74c25ac4271b92"
 
 [[files]]
+file = "config/bettervillage_1.properties"
+hash = "be9969c25ea4f8a2659f0eca18c200f4e567ed1e94e42fa73b7c9c8b8258e2e1"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "405fc1eeba3d4c8954217091eb6f3c300dcdeaf5555c4699c3b5757a7b3c02c7"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
 file = "config/colorfulhearts.toml"
 hash = "fd057b2523b5bac6b4e2df0c8ebe26ebbcdfee2c57ed008ea95fa940771fc9f5"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "04e49bd0851cabb26a7177b014dc7f5622b4e817f6fbdeaf5c9f53030bed8a3a"
+
+[[files]]
+file = "config/danger_close.toml"
+hash = "688f8898ad02d43bd7d1ab2508b08488769608c6d79fc95349edd67f59c05579"
 
 [[files]]
 file = "config/darkness.json5"
@@ -17,20 +45,84 @@ file = "config/dehydration.json5"
 hash = "d322b3daa8d30e0b7c1b2515436d40aee66d80b7cd45b5073599fcd60c91db6a"
 
 [[files]]
+file = "config/endrem.json"
+hash = "c04433d81706cf5c4ef543f636afd7353026dbac28a355d842062f68da1de223"
+
+[[files]]
 file = "config/environmentz.json5"
 hash = "3c87791288aea9307cf9c97d11e1b1573bdde907484cd1274bc00bc6c0d3b7cd"
+
+[[files]]
+file = "config/eugenes_horse_whistle.toml"
+hash = "428d4130026247ae9443abb4cafe0cf60330ac70716cc7255e0554ddba567d85"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "6c5ef17d96281e06120161c02bc3365ed55e90151cb99f8ebde9c7042e340bbb"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "config/fixedanvilrepaircost.json5"
 hash = "0de97f08adfe417e54bf9777dc1d9362b0d17f4a4c22e55fd2663a335d84d81b"
 
 [[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
+
+[[files]]
+file = "config/frycmobvariants.json5"
+hash = "bb69f445004c183c8ab751d4f5ccd51eb71027af36a48a9c50ed9e85f2e466bf"
+
+[[files]]
 file = "config/gravestones.json"
 hash = "4bd89e9ca4c5dce1094ad2c731d27d2af2239d1f31cdd9fe5da54257558e02d6"
 
 [[files]]
+file = "config/guardvillagers.json"
+hash = "fafe46cca2462296a4e37111db77ed8f8fc4e8078bbcaa04ce2785049bdc8552"
+
+[[files]]
 file = "config/health_levels.json"
 hash = "68d3452426fe9ae802a987313bf2f2af782a7a4f0756a597072c5bbdda944497"
+
+[[files]]
+file = "config/heartstone-client.json"
+hash = "d34a7151234fcf1427a04a246c406cbe868623ea0dae107afbbb740b0627504a"
+
+[[files]]
+file = "config/indypets.json"
+hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
+
+[[files]]
+file = "config/libraryferret_1.properties"
+hash = "56c206f38f96081a9980a28c2db17342da4676d96fd587c980796214b9ef5d5b"
+
+[[files]]
+file = "config/libz.json5"
+hash = "ff49be40555a0fdb1d2dc0d27fbd3cf3701171f9a0074313619b681b37866783"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/lying_skeletons_config.properties"
+hash = "20ba21915af484ba95c7dd1220cbd2cc3b9416bf3beb55c73772b70df8f75781"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "44264bbeb76423d30d46bd205069a7b9974b9ca911b8e837fe8a93eeea9b77de"
+
+[[files]]
+file = "config/monolib.toml"
+hash = "11b3fe61174f04061e20dea7fb3bd4615f6e98777de64292a86f4d7acf168adf"
+
+[[files]]
+file = "config/neutral_animals.json"
+hash = "42fecd811ee7e8d242508f72324b268ae9905d349bb677da2eddb87b459a133a"
 
 [[files]]
 file = "config/nutritionz.json5"
@@ -41,8 +133,52 @@ file = "config/rstamina.conf"
 hash = "373259fd21770cbba51b22dfc7ee0af121915ec5735c6bc6261f19e1a502e829"
 
 [[files]]
+file = "config/seasons.json"
+hash = "6c2e69c5dc53c4b487e85e6b764c6049e9a8b397b09e00e7f14302fcb734f7bd"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "b377e97ca3d8ae8560448b92ab820872d7c11bef0ca52dcf3f4901b44c6ddca7"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "b07a7529b5f0c4cff2346163ae8dca46be978417ec017b1995a31e2b2114d66a"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "293088be5b4d13e99f6c12a0aaa7b56f0f9db5f9abbc615086989b689b3827d3"
+
+[[files]]
+file = "config/sophisticatedcore-common-1.toml.bak"
+hash = "e4ab872dda9099b1e34716ce70dc00c78377eb2dc76ebfe46ad9f3b8084c195c"
+
+[[files]]
+file = "config/sophisticatedcore-common-2.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/sophisticatedcore-common-3.toml.bak"
+hash = "3c8ce72d94651e2afee2cee1b7b18d6c7318650f76d6326d7dd08900effa5d44"
+
+[[files]]
+file = "config/sophisticatedcore-common-4.toml.bak"
+hash = "a5eb939e9a91deec13f84df4e9508f96ce9cdc5fe3f4806e541ae663369b399f"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "eaf5ee4b3ca77332a7ac4af06a70135e9368a4f39be04c7d6249b98f58aacb48"
+
+[[files]]
 file = "config/stacksizeedit.json"
-hash = "7167138db6ccb1328b0b99b3990a9fab7e5c3c8f6e0160b3e6ff3e463b9fda2c"
+hash = "0134a05d4add38404e884f7c9bcd740c6bb9061d1a4cf70034f913ac01ecde62"
+
+[[files]]
+file = "config/thinair-common.toml"
+hash = "4c5d2940834832c3565c416d6d043edb9b85822f3821853b029a3f65346a710a"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "1361b271e26744966b67253b87a81c67e737a91ea893533e51171dcd3e804a71"
 
 [[files]]
 file = "config/treechop-client.toml"
@@ -51,6 +187,10 @@ hash = "141942994baf6c8b347791ec7a144ef447f162657cddc62f3e9fdbc3db626f82"
 [[files]]
 file = "config/treechop-common.toml"
 hash = "9f19fe5bd092ec95981a00463d73469f62a8766b1218deac8b584b4a76b4323a"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "54579cfb8898f22e2fd666efa47148bf9a9dba46e0cb5143516e64b5520c302b"
 
 [[files]]
 file = "datapacks/slower-armor-progression.pw.toml"
