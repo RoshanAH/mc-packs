@@ -382,16 +382,6 @@ hash = "7800c0a62478ee60520e22b385e2f3b7c6f77e03c62e05a884b5ca3d8fcfa6e6"
 metafile = true
 
 [[files]]
-file = "mods/gravestones-fix.pw.toml"
-hash = "620e259d3b21290a9f0e9e89670b2c0c2de22f1463b78a161a92af03992a1176"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers-(fabricquilt).pw.toml"
 hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
 metafile = true
