@@ -1,0 +1,12 @@
+name = "Farmers Delight Refabricated"
+filename = "farmers-delight-refabricated.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7vxePowz/versions/Dnpn5CSl/FarmersDelight-1.21-2.1.10%2Brefabricated.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0a635f911705aa73db8da5dfae97c3e07d7f733f3ead0a55a0072ccd55982400"
+

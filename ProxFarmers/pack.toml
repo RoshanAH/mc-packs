@@ -1,0 +1,16 @@
+name = "Prox Farmers"
+author = "mel"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "889dacd29775009e4508011a958da800c9dd2729b6a1ab6a88ea11d806941b81"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21"
+
+[options]
+acceptable-game-versions = []
