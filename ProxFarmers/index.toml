@@ -6,7 +6,7 @@ hash = "28a2838e68180663d147b9391e5509e7905f3f26d19136c18f8b9018a8b875db"
 
 [[files]]
 file = "config/beansbackpacks/common.json5"
-hash = "003038bb6e4aa4cb3943460beeff7be39b14f1aa2b3bffccafe2a0d9abff368d"
+hash = "8e8d64b412ff9d0cd7b72f66221ced4b8b6f69d54a850c1cf5eb0109d2d59075"
 
 [[files]]
 file = "config/beansbackpacks/features.json5"

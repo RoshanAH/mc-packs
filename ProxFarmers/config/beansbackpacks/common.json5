@@ -1,6 +1,6 @@
 {
-  "tool_belt_size": 2,               // 0 - 5  Default: 2
-  "shorthand_size": 1,               // 0 - 4  Default: 1
+  "tool_belt_size": 0,               // 0 - 5  Default: 2
+  "shorthand_size": 0,               // 0 - 4  Default: 1
   "tool_belt_additions": "",
   "shorthand_additions": "",
   "allow_shorthand_weapons": false,  // Can weapons be placed in the shorthand : Default: false
