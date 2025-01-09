@@ -89,10 +89,6 @@ file = "config/treechop-common.toml"
 hash = "9f19fe5bd092ec95981a00463d73469f62a8766b1218deac8b584b4a76b4323a"
 
 [[files]]
-file = "config/vmp.properties"
-hash = "54579cfb8898f22e2fd666efa47148bf9a9dba46e0cb5143516e64b5520c302b"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "611dd38f46108493b1d0b63cb3580d522b42d43e6680ab07de74f51224e18a10"
 metafile = true
