@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Sit!.properties"
-hash = "816a616fdcb85e82c6b9d898f1ff2ca1b82aea9cd51aa9fe9ea276ab62e95d17"
-
-[[files]]
 file = "config/beansbackpacks/client.json5"
 hash = "28a2838e68180663d147b9391e5509e7905f3f26d19136c18f8b9018a8b875db"
 
@@ -19,74 +15,6 @@ hash = "961f527990c77d0e27578a3d4f557b8ae0043dacfab46599c8d6e8462fa41659"
 [[files]]
 file = "config/beansbackpacks/traits.json5"
 hash = "fa1183b54baa9addb6494b6e536dd672bff4002e9c070b64884882004ce726e2"
-
-[[files]]
-file = "config/c2me.toml"
-hash = "405fc1eeba3d4c8954217091eb6f3c300dcdeaf5555c4699c3b5757a7b3c02c7"
-
-[[files]]
-file = "config/cardinal-components-api.properties"
-hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
-
-[[files]]
-file = "config/collective.json5"
-hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
-
-[[files]]
-file = "config/farmersdelight-common.toml"
-hash = "6c5ef17d96281e06120161c02bc3365ed55e90151cb99f8ebde9c7042e340bbb"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
-
-[[files]]
-file = "config/forgeconfigapiport.toml"
-hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
-
-[[files]]
-file = "config/frycmobvariants.json5"
-hash = "bb69f445004c183c8ab751d4f5ccd51eb71027af36a48a9c50ed9e85f2e466bf"
-
-[[files]]
-file = "config/guardvillagers.json"
-hash = "fafe46cca2462296a4e37111db77ed8f8fc4e8078bbcaa04ce2785049bdc8552"
-
-[[files]]
-file = "config/indypets.json"
-hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
-
-[[files]]
-file = "config/libraryferret_1.properties"
-hash = "56c206f38f96081a9980a28c2db17342da4676d96fd587c980796214b9ef5d5b"
-
-[[files]]
-file = "config/libz.json5"
-hash = "ff49be40555a0fdb1d2dc0d27fbd3cf3701171f9a0074313619b681b37866783"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "44264bbeb76423d30d46bd205069a7b9974b9ca911b8e837fe8a93eeea9b77de"
-
-[[files]]
-file = "config/monolib.toml"
-hash = "11b3fe61174f04061e20dea7fb3bd4615f6e98777de64292a86f4d7acf168adf"
-
-[[files]]
-file = "config/threadtweak.json"
-hash = "1361b271e26744966b67253b87a81c67e737a91ea893533e51171dcd3e804a71"
-
-[[files]]
-file = "config/treechop-client.toml"
-hash = "141942994baf6c8b347791ec7a144ef447f162657cddc62f3e9fdbc3db626f82"
-
-[[files]]
-file = "config/treechop-common.toml"
-hash = "9f19fe5bd092ec95981a00463d73469f62a8766b1218deac8b584b4a76b4323a"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
