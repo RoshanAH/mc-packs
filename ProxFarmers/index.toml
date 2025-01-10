@@ -17,6 +17,11 @@ file = "config/beansbackpacks/traits.json5"
 hash = "fa1183b54baa9addb6494b6e536dd672bff4002e9c070b64884882004ce726e2"
 
 [[files]]
+file = "datapacks/mining-helmet.pw.toml"
+hash = "10fe97610a963eb64657831b2564af0c76bd3f43e92c7252918ab9426110ddc0"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "611dd38f46108493b1d0b63cb3580d522b42d43e6680ab07de74f51224e18a10"
 metafile = true
@@ -54,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "b2e98992d952456f37ec040b2a3abfcc6f2bd4a6b9406d5dbe04a85c920ce582"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
+hash = "ff49f4d955b64cd2c8162e5d4d08dfd600c5afc8ad7514a71c174a84fd4b294f"
 metafile = true
 
 [[files]]
@@ -104,11 +114,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "65e636524c7311fe98f308e26a2b67ed2589957aab04313e541c75afd701284a"
-metafile = true
-
-[[files]]
-file = "mods/mining-helmet.pw.toml"
-hash = "10fe97610a963eb64657831b2564af0c76bd3f43e92c7252918ab9426110ddc0"
 metafile = true
 
 [[files]]
@@ -204,4 +209,9 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sygikals-datapack-assets.pw.toml"
+hash = "e27a39bb94b60325231e22ddb679675e4a5ec75fabb17162fb7d95d6d4edf133"
 metafile = true
