@@ -1,0 +1,13 @@
+name = "Sygikal's Datapack Assets"
+filename = "Sygikal's Datapack Assets v1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nKTVPu0l/versions/ZCnjp3Ah/Sygikal%27s%20Datapack%20Assets%20v1.4.zip"
+hash-format = "sha1"
+hash = "991f1238bfffa13ee1414c87959e28abffbe2846"
+
+[update]
+[update.modrinth]
+mod-id = "nKTVPu0l"
+version = "ZCnjp3Ah"

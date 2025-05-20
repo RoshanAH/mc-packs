@@ -1,0 +1,13 @@
+name = "Blooming Biosphere"
+filename = "blooming-biospshere-v1.1.2-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ds9FyUc7/versions/tMixZHya/blooming-biospshere-v1.1.2-1.21.jar"
+hash-format = "sha1"
+hash = "7fb36a6891471e273cb10f13f4b26950c6f73bfd"
+
+[update]
+[update.modrinth]
+mod-id = "Ds9FyUc7"
+version = "tMixZHya"
