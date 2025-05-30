@@ -1,0 +1,13 @@
+name = "Hot Kettles"
+filename = "hotkettles-fabric-1.2.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7xIXdoHy/versions/yYNjEq5c/hotkettles-fabric-1.2.1%2Bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "d828edbaa9f995c971f02aa93ce1496624510cf3"
+
+[update]
+[update.modrinth]
+mod-id = "7xIXdoHy"
+version = "yYNjEq5c"

@@ -17,6 +17,11 @@ file = "config/beansbackpacks/traits.json5"
 hash = "fa1183b54baa9addb6494b6e536dd672bff4002e9c070b64884882004ce726e2"
 
 [[files]]
+file = "datapacks/dinobriks-rum.pw.toml"
+hash = "e43a0f2646701e1ea4824a944623ea8629f6d5666cbd25fdf8385fa6f2e20a3c"
+metafile = true
+
+[[files]]
 file = "datapacks/mining-helmet.pw.toml"
 hash = "10fe97610a963eb64657831b2564af0c76bd3f43e92c7252918ab9426110ddc0"
 metafile = true
@@ -83,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8405864febccfb3af46c53983eeb8f69a985aaa1123f46b199fbe75fe908472c"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
@@ -104,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/horseinboat.pw.toml"
 hash = "4411ae1f207c4dd75060f2cf79bda63c2162713fdfcb44fe3de557b3c13690b2"
+metafile = true
+
+[[files]]
+file = "mods/hotkettles.pw.toml"
+hash = "b3db83c19c095c4640ac0803db2a3698104cf14fceff1d33eef84e8a0cfba5d8"
 metafile = true
 
 [[files]]
