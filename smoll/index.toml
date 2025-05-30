@@ -18,7 +18,7 @@ hash = "fa1183b54baa9addb6494b6e536dd672bff4002e9c070b64884882004ce726e2"
 
 [[files]]
 file = "datapacks/dinobriks-rum.pw.toml"
-hash = "e43a0f2646701e1ea4824a944623ea8629f6d5666cbd25fdf8385fa6f2e20a3c"
+hash = "e6e6c9957e48504a7a8380c55c4b3dd76f8304b9a1c3e46f7100ff2ff028eb17"
 metafile = true
 
 [[files]]
@@ -244,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dinobriks-rum-rp.pw.toml"
+hash = "5512fa0961cdb2e28878b619c5b539cfb77e494e6dafb6264b8cff0a9a7d6c6f"
 metafile = true
 
 [[files]]
