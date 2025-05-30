@@ -17,11 +17,6 @@ file = "config/beansbackpacks/traits.json5"
 hash = "fa1183b54baa9addb6494b6e536dd672bff4002e9c070b64884882004ce726e2"
 
 [[files]]
-file = "datapacks/dinobriks-rum.pw.toml"
-hash = "e6e6c9957e48504a7a8380c55c4b3dd76f8304b9a1c3e46f7100ff2ff028eb17"
-metafile = true
-
-[[files]]
 file = "datapacks/mining-helmet.pw.toml"
 hash = "10fe97610a963eb64657831b2564af0c76bd3f43e92c7252918ab9426110ddc0"
 metafile = true
@@ -74,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/dataloader.pw.toml"
 hash = "ff49f4d955b64cd2c8162e5d4d08dfd600c5afc8ad7514a71c174a84fd4b294f"
+metafile = true
+
+[[files]]
+file = "mods/dinobriks-rum.pw.toml"
+hash = "b3625d7e40c0c4ab5061898eaedcdb539327a6ab82ae449b47a298d07c0c9219"
 metafile = true
 
 [[files]]
