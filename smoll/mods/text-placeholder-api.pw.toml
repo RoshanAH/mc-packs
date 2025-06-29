@@ -3,11 +3,11 @@ filename = "placeholder-api-2.7.1+1.21.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eXts2L7r/versions/wg33PHxj/placeholder-api-2.7.1%2B1.21.6.jar"
 hash-format = "sha1"
 hash = "5b5ef013898f9d4d3c6bf99597bb07e2f571657a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "eXts2L7r"
-version = "wg33PHxj"
+[update.curseforge]
+file-id = 6684499
+project-id = 1037459
