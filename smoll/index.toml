@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2e398e0ab322ae92e06ec9a5ee43756631b1cbff2dd87dc93cbf82e60849bd5c"
+hash = "5a6adffeda157e4a1157e53641509103113c93affd42aa1831c2137d54372b8f"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/otterlib.pw.toml"
-hash = "778368c7f96d40841557c99b79b39db907fe29b38753019511a86b7381110aab"
+hash = "17219c582eb01bdd49c158423ee3e65c2b2c4d3b3d04517a7308554e24d149ee"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/sit!.pw.toml"
-hash = "0f172dd203e41414cf203770a89885b2ced755d03d5c2e68768628db23db525b"
+hash = "c2cb45a8a691d592f96ad87c65bf8df379fe4398d2e5831e9c6a6a66fa81bd98"
 metafile = true
 
 [[files]]
