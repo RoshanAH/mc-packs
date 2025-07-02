@@ -136,6 +136,21 @@ hash = "9d4d073da1cef2152c603a4502c73416d0f792fda5bb6e1b072f2ce23aed3eae"
 metafile = true
 
 [[files]]
+file = "mods/resource-backpacks.pw.toml"
+hash = "8b2a91cad7ee93f7c74f776c1173cb5b5d11b902b34c8ac6acf9c4566c05f58c"
+metafile = true
+
+[[files]]
+file = "mods/resource-config-api.pw.toml"
+hash = "b4e0ee570c3fe437cf96e43683b9963136f0b890b577702dcb69c4da9e07278e"
+metafile = true
+
+[[files]]
+file = "mods/resource-library.pw.toml"
+hash = "5aead841ed700bb818e91d528f57015d59b728c190af5ab8827ee73e7bb53800"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "5478fa27be82c6e92191a5b95142383ab8e1798c23990998c1a94b710d7f8435"
 metafile = true
