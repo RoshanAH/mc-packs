@@ -1,20 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/beansbackpacks/client.json5"
-hash = "28a2838e68180663d147b9391e5509e7905f3f26d19136c18f8b9018a8b875db"
+file = "config/resource_backpacks/client/appearance.json"
+hash = "be055dc1eaefc6ba33bcfeafdad28bfd88d75d2f1625d9cb89365c0cf5ffa27d"
 
 [[files]]
-file = "config/beansbackpacks/common.json5"
-hash = "8e8d64b412ff9d0cd7b72f66221ced4b8b6f69d54a850c1cf5eb0109d2d59075"
+file = "config/resource_backpacks/common/backpacks.json"
+hash = "bcea691bd8b44e0f642b11c891bd50d844a776604678c1031d587a802daee4a0"
 
 [[files]]
-file = "config/beansbackpacks/features.json5"
-hash = "961f527990c77d0e27578a3d4f557b8ae0043dacfab46599c8d6e8462fa41659"
+file = "config/resource_backpacks/common/chest_loot.json"
+hash = "8e5981442a0df5917127e0d9b6d30c6f30e542be0017671d2cf4d9de5100e2d5"
 
 [[files]]
-file = "config/beansbackpacks/traits.json5"
-hash = "fa1183b54baa9addb6494b6e536dd672bff4002e9c070b64884882004ce726e2"
+file = "config/resource_backpacks/common/entity_config.json"
+hash = "b0909893a6fcdb4a8549770ff8f8b11bf7f4bd474f353a01a8df3a384c9222f8"
+
+[[files]]
+file = "config/treeharvester.json5"
+hash = "465ba64454aecc915549fef67927c4f833b34ee6ab2dcf092e0bac843c233af3"
 
 [[files]]
 file = "install"
