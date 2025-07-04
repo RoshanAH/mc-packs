@@ -18,7 +18,7 @@ hash = "b0909893a6fcdb4a8549770ff8f8b11bf7f4bd474f353a01a8df3a384c9222f8"
 
 [[files]]
 file = "config/treeharvester.json5"
-hash = "465ba64454aecc915549fef67927c4f833b34ee6ab2dcf092e0bac843c233af3"
+hash = "062fb148cb2639d5412171423aecc00e8bb7baa218862788b65425f3704a621e"
 
 [[files]]
 file = "install"
