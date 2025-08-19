@@ -1,13 +1,13 @@
 name = "Resource Backpack's"
-filename = "resource_backpacks-fabric-1.21.6-1.2.1.jar"
+filename = "resource_backpacks-fabric-1.21.7-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t8iyhYu7/versions/1gwlhUQw/resource_backpacks-fabric-1.21.6-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/t8iyhYu7/versions/1fE2tS1M/resource_backpacks-fabric-1.21.7-1.2.3.jar"
 hash-format = "sha1"
-hash = "155aa91f8241997017a899887c99d736ac4c4827"
+hash = "da96589b32af2e0a5408a4d14ae31cfeb69d5e84"
 
 [update]
 [update.modrinth]
 mod-id = "t8iyhYu7"
-version = "1gwlhUQw"
+version = "1fE2tS1M"
