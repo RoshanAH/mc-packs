@@ -21,8 +21,9 @@ file = "config/treeharvester.json5"
 hash = "062fb148cb2639d5412171423aecc00e8bb7baa218862788b65425f3704a621e"
 
 [[files]]
-file = "install"
-hash = "19d6ef81da1acfc1a8e28f007256bc01438139a4eb24fe72f94de8da3ea54829"
+file = "mods/ambientsounds.pw.toml"
+hash = "8a9a2ca29d73feeaccc6ab6e9a3a9c2bb7da23fd322597ebcfb05610862281ba"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -51,12 +52,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7621c38bf5eb90cc7458a78eeab30088bae4bf9f29f72bbc2a2a7c37fc06b551"
+hash = "2ffba149ee8a8c283ec050c1ad5b5e5ef930854443f5b52fc3ef233d877a6253"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "af6fbeb17ff88d8c35b7fd1dab31855babe9b843df173c9e4850556462a94c01"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b0f409eca358de3ecae8aac8a64ef88c458d00b7b85411aece5d6db8c70747e3"
 metafile = true
 
 [[files]]
@@ -137,6 +143,16 @@ metafile = true
 [[files]]
 file = "mods/pneumono_gravestones.pw.toml"
 hash = "9d4d073da1cef2152c603a4502c73416d0f792fda5bb6e1b072f2ce23aed3eae"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "1509362b8d6154efebb9e50b110faa0cf2e523449ad65ed2f3508538b9ae9ef9"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "41fffd8c008c2e0c9940172559a50c1e28c11bcc06fcd41b3423a555843b0881"
 metafile = true
 
 [[files]]
