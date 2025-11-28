@@ -26,6 +26,11 @@ hash = "a93862dc31f56fae1ba90acda3d4b6b6afbab76720ade5b21f6026316d2f5625"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0e0970dafc9680fba4dc73434baad6aa7dee91ab4994f33b2493ea5b4c59931d"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "73bd3e12b7f552db549143950fdd4df8c8429d9c1f65be9e21d9d1128f10e81b"
 metafile = true
