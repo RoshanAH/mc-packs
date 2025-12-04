@@ -6,8 +6,23 @@ hash = "e82351fda29ccc40665eb47b13cf325db77d6ccbd3a57c2208c54ae4e5c6f45f"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "90c625d1398c6a19531d9d35b74a456cbbd7da3a19ec4da98ec13a3ba22c855e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b2103de7f3d13a7b7868890afd358e51f93bea4914e226fc0fbe53bdb84ff7e8"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fa8be992c1e3efbd030ef6a84409b766a936deb3fc3d06b657f8e468745044f0"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "639b8c8c8d82b4b640b0f92619ac8e864579af729dd9a1c27534c8b2aef14bf2"
 metafile = true
 
 [[files]]
@@ -21,6 +36,21 @@ hash = "5787b1deb7975af608901df0bf16b1e5de2452c98808f6a205c35aaa83e9f56a"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "0c29d19475a2eb997b70e5418f1ba9c63c04b441e1bd96a955c3dbbfbd6fa867"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "cecc601e14ecf7740a08402459d37b234a6560878d3a03b161e85aaaabc3f0d8"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "29a47d3c5c467e8c4cfde49f927238867839f7518c8444a0e1c5b8c6657600e9"
+metafile = true
+
+[[files]]
 file = "mods/santas-delight.pw.toml"
 hash = "dba2c8968daa05de4ee5eb575d5ecf8c0b27439521edb3de439470cc40cd2cf0"
 metafile = true
@@ -28,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "a93862dc31f56fae1ba90acda3d4b6b6afbab76720ade5b21f6026316d2f5625"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "898ed168073d22ebec4574565edf34d5d38c87e7ae9d43c6ed56bdac5be5d005"
 metafile = true
 
 [[files]]
