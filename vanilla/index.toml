@@ -21,6 +21,11 @@ hash = "5787b1deb7975af608901df0bf16b1e5de2452c98808f6a205c35aaa83e9f56a"
 metafile = true
 
 [[files]]
+file = "mods/santas-delight.pw.toml"
+hash = "dba2c8968daa05de4ee5eb575d5ecf8c0b27439521edb3de439470cc40cd2cf0"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "a93862dc31f56fae1ba90acda3d4b6b6afbab76720ade5b21f6026316d2f5625"
 metafile = true
