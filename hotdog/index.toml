@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/gravestones.json"
+hash = "91ae5d3e610e9053671027bd08be221c7cdf9fe947b5c7e26ffb48b1d2d9b330"
+
+[[files]]
+file = "config/treeharvester.json5"
+hash = "c1c62127f08d8c3155024f0ced0f2484e17be267472d0ca93b9640ae00a5db49"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "e82351fda29ccc40665eb47b13cf325db77d6ccbd3a57c2208c54ae4e5c6f45f"
 metafile = true
@@ -13,6 +21,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2103de7f3d13a7b7868890afd358e51f93bea4914e226fc0fbe53bdb84ff7e8"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "3c6b206bface93aee9075a0c18c0ebe91026932610c52ae86489f1055342bbbf"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trinket-updated.pw.toml"
+hash = "71b7125d8685f0515d708c3da698b44d1ec6bc02ea7f664409b9cf0346613501"
 metafile = true
 
 [[files]]
@@ -33,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "5787b1deb7975af608901df0bf16b1e5de2452c98808f6a205c35aaa83e9f56a"
+metafile = true
+
+[[files]]
+file = "mods/otterlib.pw.toml"
+hash = "f9ed647ab1f647a278a815b94feaa8fc5404334023bc8bc6bb381dc4980a994a"
 metafile = true
 
 [[files]]
@@ -63,6 +86,21 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0e0970dafc9680fba4dc73434baad6aa7dee91ab4994f33b2493ea5b4c59931d"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "5fd1bcbbbbb955a1e0c170db7675e18bebfdf0dbe89f05507f7ca653aead7843"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "c545f2d9b2cca20ead494fa706f32e6c0d610f1692b1d3269d574a838ab4e577"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-canary.pw.toml"
+hash = "b9e1215808705e3a86f12e703ecbc1a814b40f8134d44cb765d3dfe335d959b2"
 metafile = true
 
 [[files]]
