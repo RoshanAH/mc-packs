@@ -2,30 +2,30 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6b408e7b83e9b769fcafe9216c6f6a528d8930c6d34f7984a9e42119b5ac7d44"
+hash = "44e3dfa98c0abf9c4146828675a6c98d961344730008d29a6d7cb214e5839c3d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5cbf83104c6353ae45297f90a0ea6eecac70a4ab3ef1c2722fb04a8e636aea1d"
+hash = "e1d132aa8129d83ff1f77b2ae9abe5764d97fc3a812d6040f9ff1fac6d503c84"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "d9d10b2dc49123934063ba3454f7e703267bc812504e2c34bff5d0a16e0b4109"
+hash = "85ad2490c50f56b0d942f28e71847e89145f8935df2d2a0c2313ef2b954240c5"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e2a0b29673d3a5abac04b62156352a337b088402b0dc216550bc8af6d16a683a"
+hash = "d54cd53f2ffb517056b2e4f68d64cbc28a548262a2ea8fb2e834c3518e29fa51"
 metafile = true
 
 [[files]]
 file = "mods/otterlib.pw.toml"
-hash = "fe5b04741d2df4d3f5cbbec991bfafd37caf36626435337bf89563020302b378"
+hash = "188cd5eaed83735a13ddc3f664388bdb510877759d6bc9fee1363e6da711bb40"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "3f9242c38acc3e18d59f02e74a86d5309db1fe9337b76b36e81f20f7f3182df8"
+hash = "1ba8e54a4ec85f349f55fc189795392460e407ceb97f52b59cfe0702a56c43c7"
 metafile = true
